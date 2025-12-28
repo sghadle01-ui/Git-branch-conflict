@@ -1,3 +1,3 @@
 Hello world
-a=30
-b=60
+a=40
+b=80
